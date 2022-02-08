@@ -1,4 +1,4 @@
-# Tigerfish Pac-Man Project
+# Pac-Man Project
 
 
 ### Introduction
